@@ -48,10 +48,6 @@ Framework là một thư viện với các hàm được xây dựng sẵn phụ
 
 + 7: git push origin masterd <lệnh này để đẩy tất cả code mới lên trên Repositories>
 
-## ☀ Cách thức clone project về máy
-
-Mở terminal tại máy tính của bạn chạy lệnh <br>
-git clone https://github.com/bichngoc459/QLBANGIAY.git
 
 
 
